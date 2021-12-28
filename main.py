@@ -16,7 +16,7 @@ aria2Link = "http://localhost:6800/jsonrpc"
 aria2Secret = "a96333a9df195b177c56"
 
 isDownload = Ture
-downloadNum = "0"  # 1,2,3,4,5
+downloadNum = 0  # 1,2,3,4,5
 
 
 header = {
