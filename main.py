@@ -10,13 +10,13 @@ import requests
 import os
 import copy
 
-OneDriveShareURL = "https://gitaccuacnz2-my.sharepoint.com/:f:/g/personal/mail_finderacg_com/EheQwACFhe9JuGUn4hlg9esBsKyk5jp9-Iz69kqzLLF5Xw?e=FG7SHh"
+OneDriveShareURL = "https://fvkn-my.sharepoint.com/:f:/g/personal/vgga_a_1ove_ml/Eo9LhtI5NCpKmEYe6XiSIl8BAtDOiiG2fwlUtWjagTCbTA?e=7q3NOV"
 
 aria2Link = "http://localhost:6800/jsonrpc"
-aria2Secret = "123456"
+aria2Secret = "a96333a9df195b177c56"
 
-isDownload = False
-downloadNum = "1,2-4,5"  # 1,2,3,4,5
+isDownload = Ture
+downloadNum = "0"  # 1,2,3,4,5
 
 
 header = {
